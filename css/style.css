@@ -1,0 +1,13 @@
+body {
+  background: #fff9ee;
+  padding: 24px;
+  font-family: Arial, sans-serif;
+  color: #2f2011;
+}
+h1 {
+  color: tomato;
+}
+#container {
+  width: 400px;
+  margin: 0 auto;
+}
